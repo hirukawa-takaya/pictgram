@@ -56,6 +56,7 @@ group :test do
   gem 'selenium-webdriver'
   
   gem 'pry-rails'
+  gem 'rb-readline'
   gem 'pry-doc'
   gem 'pry-byebug'
   gem 'pry-stack_explorer'
